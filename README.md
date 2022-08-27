@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on pursuing a new role in Data Science and working on analyzing various datasets with different Machine Learning Models.
 
-- 👨‍💻 All of my projects are available at [awe](awe)
+- 👨‍💻 All of my projects are available at my [Analytics Portfolio](https://github.com/samuel6269/analytics_projects)
 
-- 📫 How to reach me **awe@gmail.com**
+- 📫 How to reach me **samuel6269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
