@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on pursuing a new role in Data Science and working on analyzing various datasets with different Machine Learning Models.
 
-- 🌱 I’m currently learning about new data visualization tools and Deep Learning architectures
+- 🌱 I’m learning about new data visualization tools and Deep Learning architectures
 
 - 👨‍💻 Check out some of my cool projects at my [Analytics Portfolio](https://github.com/samuel6269/analytics_projects)
 
