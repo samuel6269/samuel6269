@@ -7,7 +7,7 @@
 
 - 👨‍💻 Check out some of my cool projects at my [Analytics Portfolio](https://github.com/samuel6269/analytics_projects)
 
-- 📫 How to reach me **samuel6269@gmail.com**
+- 📫 How to reach me: **samuel6269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
