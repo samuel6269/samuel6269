@@ -2,14 +2,16 @@
 <h3 align="center">A recent graduate of Georgia Tech's Master's of Analytics Program</h3>
 
 - 🔭 I’m currently working on pursuing a new role in Data Science and working on analyzing various datasets with different Machine Learning Models.
-
+- 
+- 🌱 I’m currently learning about new data visualization tools and Deep Learning architectures
+- 
 - 👨‍💻 All of my projects are available at my [Analytics Portfolio](https://github.com/samuel6269/analytics_projects)
 
 - 📫 How to reach me **samuel6269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samuel-yong-sy1993.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
