@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Yong</h1>
-<h3 align="center">A recent graduate of Georgia Tech's Master's of Analytics Program</h3>
+<h3 align="center">A recent Analytics graduate with a focus in Machine Learning and Deep Learning</h3>
 
 - 🔭 I’m currently working on pursuing a new role in Data Science and working on analyzing various datasets with different Machine Learning Models.
 
